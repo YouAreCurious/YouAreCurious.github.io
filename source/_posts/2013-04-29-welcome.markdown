@@ -1,0 +1,17 @@
+---
+author: THpubs
+comments: true
+date: 2013-04-29 05:27:26+00:00
+layout: post
+slug: welcome
+title: Welcome to Youarecurio.us! Are You Curious?
+wordpress_id: 42
+categories:
+- Cool Shares
+tags:
+- News
+---
+
+First of all, I’m a tech blogger and a web developer. I own [TechHamlet.com](http://techhamlet.com/). In the early days of my blogging, I only wanted to write about tech! Tutorials, tricks, software reviews, etc. Recently, I wanted to write something different. So I started Youarecurio.us. In the past few years I have used a lot of techniques to tune my life and be more productive. I also learnt a lot about living a happy life. It’s not hard… You just have to do some tweaking to the way you live. I learnt a lot about these tricks. Why not share them with every one?
+
+Read more at our [About](/about) page...

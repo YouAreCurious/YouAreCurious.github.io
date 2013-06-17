@@ -8,12 +8,11 @@ single: true
   {% include article.html %}
   <footer>
     <p class="meta">
-      {% include post/author.html %}
-      {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
-      {% include post/categories.html %}
+      <p id="author"><em>~ {% include post/author.html %} ~</em></p>
+      <p id="post-categories"><span class="title">Categories :</span> {% include post/categories.html %}</p>
     </p>
     {% unless page.sharing == false %}
-      {% include post/sharing.html %}
+      <p id="post-sharing"><span class="title">Please share this post :</span>{% include post/sharing.html %}</p>
     {% endunless %}
     <p class="meta">
       {% if page.previous.url %}

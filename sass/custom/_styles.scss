@@ -1,2 +1,376 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+html {
+	background: url("/images/noise.png?1371304680") repeat scroll left top #F2F2F2;
+
+
+
+	body > nav a {
+		color: #A3A3A3 !important;
+		            -webkit-transition: all 0.2s ease-in-out;
+            -moz-transition: all 0.2s ease-in-out;
+            -o-transition: all 0.2s ease-in-out;
+            -ms-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+	}
+
+	body{
+		max-width: none;
+
+	}
+
+	body > nav li + li {
+		border-left: none;
+	}
+
+
+body > nav li + li a {
+    border-left: 1px solid #F0F0F0;
+}
+
+			nav{
+				background: none repeat scroll 0 0 #FFFFFF !important;
+			    border-bottom: 1px solid #E6E6E6;
+			    box-shadow: 0 0 6px #696969;
+			    font-size: 13px;
+
+			    #nav-home:hover{
+					color: #FF0000 !important;
+
+			    }
+
+			    #nav-archives:hover{
+					color: #FFBF66 !important;
+
+			    }
+
+			    #nav-about:hover{
+					color: #0099FF !important;
+
+			    }
+
+			    #nav-contact:hover{
+					color: #12B538 !important;
+
+			    }
+
+			    #nav-privacy:hover{
+					color: #BC1DC2 !important;
+
+			    }
+
+
+.search {
+    border: 1px solid #BABABA !important;
+    -webkit-border-radius: 14px !important;
+    -moz-border-radius: 14px !important;
+    -o-border-radius: 14px !important;
+    border-radius: 14px !important;
+    box-shadow: 0 2px rgba(187, 187, 187, 0.3) inset !important;
+    color: #696969;
+    float: right;
+    font-size: 11px;
+    opacity: 0.7;
+    padding: 3px 3px 3px 7px;
+    width: 6%;
+    outline: none !important;
+    -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    -ms-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    margin-top: 2px;
+    &:hover, &:focus, {
+        opacity: 1;
+        width: 8%;
+    }
+}
+
+
+			}
+
+			header{
+				background: none;
+				margin-left: auto;
+			    margin-right: auto;
+			    max-width: 1200px;
+			    height: 133px;
+
+				#logo{
+					margin-top: 3px;
+				    text-align: center;
+				    width: 100%;
+				}
+
+				#title{
+					color: #FFFFFF;
+				    float: left;
+				    margin-left: 1000000px;
+				    height: 1px;
+				}
+			}
+
+			body > nav {
+				background: none;
+			}
+
+			#main{
+				background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #E3E3E3;
+    box-shadow: 0 0 4px #CCCCCC;
+    margin-bottom: 29px;
+    max-width: 1181px;
+
+				#content{
+					background: none;
+
+                    .flash-video{
+                            border: medium none;
+    box-shadow: none;
+    text-align: center;
+                    }
+
+					header{
+						max-height: 133px !important;
+						height: auto;
+					}
+
+					blockquote p{
+						    color: #5E5E5E !important;
+    text-shadow: none !important;
+					}
+
+.read-on{
+	text-align:left;
+}
+
+.hentry, .entry-content{
+	a{
+							    color: #00A6FF !important;
+    text-decoration: none;
+    padding: 1px;
+    background: none repeat scroll 0 0 #FFFFFF;
+    
+    font-weight: normal;
+        -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+
+
+    &:hover{
+    	    background: none repeat scroll 0 0 #FF0000;
+    color: #FFFFFF !important;
+
+    }
+	}
+}
+
+					.entry-content p:first-letter {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.entry-content p,article p{
+font-family: 'Josefin Slab',serif !important;
+text-shadow: 0 1px 1px #B3B3B3;
+line-height: 1.625;
+font-size:19px;
+}
+
+.entry-content {
+	h1, h2, h3, h4, h5, h6{
+		font-family: 'Josefin Slab',serif !important;
+
+	}
+
+
+}
+
+article{
+	h1, h2, h3, h4, h5, h6{
+		font-family: 'Josefin Slab',serif !important;
+
+	}	
+}
+
+
+					    .entry-title a, .entry-title{
+    	color: #696969;
+    	font-family: Josefin Slab;
+
+    	&:hover{
+    		text-decoration: none;
+    		color: #3fa9f5;
+
+    	}
+    }
+
+#author{
+	    font-size: 15px;
+    margin-bottom: 42px;
+    text-align: center;
+}
+
+					.post-date{
+    background: none repeat scroll 0 0 #FFBB00;
+    border-radius: 98px 98px 98px 98px;
+    color: #FFFFFF;
+    float: left;
+    height: 110px;
+    margin-left: -113px;
+    margin-top: -98px;
+    text-align: center;
+    width: 110px;
+
+    .post-date-text{
+    float: left;
+    font-size: 14px;
+    margin-left: 12px;
+    margin-top: 43px;
+    }
+
+
+
+					}
+
+					#post-categories{
+						text-align: left;
+						.title{
+						    background: none repeat scroll 0 0 #B800A8;
+    color: #FFFFFF;
+    font-weight: bolder;
+    padding: 5px;
+    text-shadow: none;	
+						}
+					}
+
+					#post-sharing{
+						   margin-bottom: 1px;
+    text-align: left;
+
+    .title{
+    							    background: none repeat scroll 0 0 #821079;
+    color: #FFFFFF;
+    font-weight: bolder;
+    padding: 5px;
+    text-shadow: none;	
+    }
+					}
+
+					.sharing{
+						text-align: left;
+					}
+
+
+				}
+
+
+				.sidebar{
+
+
+
+#recent_posts, #categories{
+    color: #858585 !important;
+    font-size: 13px;
+}
+
+					section h1{
+    -webkit-transition: all 0.4s ease-in;
+    -moz-transition: all 0.4s ease-in;
+    -o-transition: all 0.4s ease-in;
+    -ms-transition: all 0.4s ease-in;
+    transition: all 0.4s ease-in;
+}
+						section:hover #side-recent-posts{
+							background-color: #FF8000 !important;
+						}
+						section:hover #side-cat-menu{
+							background-color: #FFBB00 !important;
+						}
+						section:hover #side-mail-subscribe{
+							background-color: #FF0000 !important;
+						}
+					
+
+					a {
+
+    text-decoration: none !important;
+
+}
+					#side-recent-posts, #side-cat-menu, #side-mail-subscribe{
+						    background: none repeat scroll 0 0 #3fa9f5;
+    color: #FFFFFF;
+    font-family: "PT Sans","Helvetica Neue",Arial,sans-serif;
+    font-weight: bolder;
+    padding: 4px;
+    text-shadow: none;
+    border-radius: 0 20px 20px 0;
+					}
+
+
+					#mc_embed_signup{
+						    margin-top: 11px;
+    text-align: center;
+
+    img{
+       border:none;
+       box-shadow: none; 
+    }
+
+    .mc-field-group{
+    	label{
+    		 color: #A6A6A6;
+    	}
+    }
+
+    #mce-EMAIL{
+    background: none repeat scroll 0 0 #F0F0F0;
+    border: 1px solid #BABABA !important;
+    border-radius: 14px 14px 14px 14px !important;
+    box-shadow: 0 2px rgba(187, 187, 187, 0.3) inset !important;
+    color: #696969;
+    font-size: 11px;
+    height: 20px;
+    margin-bottom: 4px;
+    margin-top: 2px;
+    opacity: 0.7;
+    outline: medium none !important;
+    padding: 3px 3px 3px 7px;
+    transition: all 0.3s ease-in 0s;
+    width: 80%;
+    }
+
+    #mc-embedded-subscribe{
+       background: none repeat scroll 0 0 #F0F0F0;
+    border: 2px solid #DBDBDB;
+    border-radius: 20px 20px 20px 20px;
+    color: #ADADAD;
+    padding: 4px;
+    width: 104px; 	
+    }
+					}
+				}
+
+
+
+
+			}
+
+footer{
+	    border-radius: 0 0 0 0;
+    margin-bottom: 0;
+    text-align: center;
+    #html5-logo{
+    	margin-top: 16px;
+    }
+}
+}
+
+
+
+
+
+
