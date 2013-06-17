@@ -125,6 +125,15 @@ body > nav li + li a {
 				#content{
 					background: none;
 
+                    .comment-count-meta{
+                 background: none repeat scroll 0 0 #0DB50F !important;
+    color: #FFFFFF !important;
+    font-size: 14px;
+    padding: 3px !important;
+    text-decoration: none;
+    text-shadow: 0 1px 2px #878787;           
+                    }
+
                     .flash-video{
                             border: medium none;
     box-shadow: none;
@@ -132,7 +141,7 @@ body > nav li + li a {
                     }
 
 					header{
-						max-height: 133px !important;
+						max-height: 160px !important;
 						height: auto;
 					}
 
@@ -147,7 +156,7 @@ body > nav li + li a {
 
 .hentry, .entry-content{
 	a{
-							    color: #00A6FF !important;
+							    color: #00A6FF ;
     text-decoration: none;
     padding: 1px;
     background: none repeat scroll 0 0 #FFFFFF;
@@ -230,6 +239,7 @@ article{
     font-size: 14px;
     margin-left: 12px;
     margin-top: 43px;
+    text-shadow: 0 1px 3px #757575;
     }
 
 
