@@ -15,6 +15,15 @@ Are you curious? I know Youarecurio.us! Have you ever tried to tune your life? H
 
 <em>**Note :** You can visit us through both **youarecurio.us** and **youarecurious.com**. But the main address is youarecurio.us.</em>
 
+### Special thanks to...
+- [Octopress](http://octopress.org/) *(Underlying framework)*
+- [Jekyll](http://jekyllrb.com/) *(Underlying framework)*
+- [Ruby](http://www.ruby-lang.org/en/) *(Language used in the framework)*
+- [Cloud Flare](https://www.cloudflare.com/) *(Provide security and optimization)*
+- [GitHub Pages](http://pages.github.com/) *(Provide hosting)*
+- [Turkhitbox](http://www.turkhitbox.com/photoshop/twitter-facebook-connect-buttons-psd.html) *(Provided sidebar's Twitter and Facebook buttons)*
+
+
 
 
 

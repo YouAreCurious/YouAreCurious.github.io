@@ -13,6 +13,7 @@ tags:
 - Japan
 - Ships
 - World War II
+description: "In Yamato, they installed the most powerful weapons. It can shoot down ships even before they can come close enough to shoot back. So, why did it.."
 ---
 
 

@@ -135,6 +135,20 @@ body > nav li + li a {
     text-shadow: 0 1px 2px #878787;           
                     }
 
+                    code{
+                        background-color: #F2F2F2 !important;
+                            -webkit-transition: all 0.3s ease-in;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    -ms-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+
+    &:hover{
+        background-color: #FFFFFF !important;
+        color: #00A6FF !important;
+    }
+                    }
+
                     .flash-video{
                             border: medium none;
     box-shadow: none;
@@ -142,7 +156,7 @@ body > nav li + li a {
                     }
 
 					header{
-						max-height: 174px !important;
+						max-height: 184px !important;
 						height: auto;
 					}
 

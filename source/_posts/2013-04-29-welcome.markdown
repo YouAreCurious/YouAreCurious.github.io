@@ -10,7 +10,9 @@ categories:
 - Cool Shares
 tags:
 - News
+description: "I know Youarecurio.us! Have you tried to tune your life? Have you ever tried to dig through the world history? Have you tried to find world's secrets?"
 ---
+![You Are Curious](/images/post-images/2013/04/youarecurious.jpg"You Are Curious")
 
 First of all, I’m a tech blogger and a web developer. I own [TechHamlet.com](http://techhamlet.com/). In the early days of my blogging, I only wanted to write about tech! Tutorials, tricks, software reviews, etc. Recently, I wanted to write something different. So I started Youarecurio.us. In the past few years I have used a lot of techniques to tune my life and be more productive. I also learnt a lot about living a happy life. It’s not hard… You just have to do some tweaking to the way you live. I learnt a lot about these tricks. Why not share them with every one?
 

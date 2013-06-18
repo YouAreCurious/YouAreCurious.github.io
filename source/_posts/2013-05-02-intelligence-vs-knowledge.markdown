@@ -13,6 +13,7 @@ tags:
 - Knowledge
 - Life
 - Mind
+description: "Intelligence vs Knowledge! Our ancient people relied on their own findings... On their own minds... But today, we rely on some one else's findings..."
 ---
 ![Intelligence vs Knowledge](/images/post-images/2013/05/intelligence-vs-knowledge.jpg "Intelligence vs Knowledge")
 

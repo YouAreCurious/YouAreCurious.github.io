@@ -16,6 +16,7 @@ tags:
 - Ancient People
 - History
 - Pyramids
+description: "Did Ancient People Use Electricity? Here’s What I Think…"
 ---
 
 ![Ancient People Used Electricity?](/images/post-images/2013/05/ancient-people-used-electricity.jpg "Ancient People Used Electricity?")

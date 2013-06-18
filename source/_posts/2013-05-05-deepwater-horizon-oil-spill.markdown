@@ -10,6 +10,7 @@ categories:
 - Disasters
 tags:
 - Famous Disasters
+description: "The Deepwater Horizon Oil Spill that shook the Gulf of Mexico. A series of human error have led to the destruction of the drilling rig with 11 lives.."
 ---
 ![Deepwater Horizon Oil Spill](/images/post-images/2013/05/deep-water-horizon.jpg "Deepwater Horizon Oil Spill")
 

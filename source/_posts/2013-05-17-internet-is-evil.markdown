@@ -11,6 +11,7 @@ categories:
 tags:
 - Internet
 - Technology
+description: "You can also use a knife to end a life... Like that, the Internet also have a bad side. If you use it in the wrong way, for you, the Internet is Evil!"
 ---
 
 ![Evil Internet](/images/post-images/2013/05/evil-internet.jpg "Evil Internet")
