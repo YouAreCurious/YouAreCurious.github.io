@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About YouAreCurio.us"
-date: 2013-06-16 20:26
 comments: false
 sharing: true
 footer: true

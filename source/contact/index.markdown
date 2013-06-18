@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Contact"
-date: 2013-06-17 10:54
 comments: false
 sharing: false
 footer: true
+description: "Contact You Are Curious"
 ---
 Send us an email to : support@youarecurio.us or send your message using the form below :
 

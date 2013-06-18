@@ -7,12 +7,12 @@ single: true
 <article class="hentry" role="article">
   {% include article.html %}
   <footer>
-    <p class="meta">
+    <div class="meta">
       <p id="author"><em>~ {% include post/author.html %} ~</em></p>
       <p id="post-categories"><span class="title">Categories :</span> {% include post/categories.html %}</p>
-    </p>
+    </div>
     {% unless page.sharing == false %}
-      <p id="post-sharing"><span class="title">Please share this post :</span>{% include post/sharing.html %}</p>
+      <p id="post-sharing"><span class="title">Please share this post :</span></p>{% include post/sharing.html %}
     {% endunless %}
     <p class="meta">
       {% if page.previous.url %}
