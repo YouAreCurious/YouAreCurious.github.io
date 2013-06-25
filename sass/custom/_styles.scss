@@ -168,6 +168,23 @@ body > nav li + li a {
 
 .read-on{
 	text-align:left;
+    a{
+        background:#ebebeb;
+        display:inline-block;
+        padding:.4em .8em;
+        margin-right:.5em;
+        text-decoration:none;
+        color:#666;
+        -webkit-transition:background-color 0.5s;
+        -moz-transition:background-color 0.5s;
+        -o-transition:background-color 0.5s;
+        transition:background-color 0.5s
+    }
+    a:hover{
+        background:#0181eb;
+        text-shadow:none;
+        color:#f8f8f8
+    }
 }
 
 .hentry, .entry-content{
