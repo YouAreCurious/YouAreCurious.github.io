@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Cool Shares | You Are Curio.us]]></title>
+  <link href="http://YouAreCurious.github.io/categories/cool-shares/atom.xml" rel="self"/>
+  <link href="http://YouAreCurious.github.io/"/>
+  <updated>2013-07-17T15:07:30+05:30</updated>
+  <id>http://YouAreCurious.github.io/</id>
+  <author>
+    <name><![CDATA[Pubudu Kodikara]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to Youarecurio.us! Are You Curious?]]></title>
+    <link href="http://YouAreCurious.github.io/2013/04/welcome/"/>
+    <updated>2013-04-29T10:57:26+05:30</updated>
+    <id>http://YouAreCurious.github.io/2013/04/welcome</id>
+    <content type="html"><![CDATA[<p><img src="/images/post-images/2013/04/youarecurious.jpg" title="You Are Curious" alt="You Are Curious" /></p>
+
+<p>First of all, I’m a tech blogger and a web developer. I own <a href="http://techhamlet.com/">TechHamlet.com</a>. In the early days of my blogging, I only wanted to write about tech! Tutorials, tricks, software reviews, etc. Recently, I wanted to write something different. So I started Youarecurio.us. In the past few years I have used a lot of techniques to tune my life and be more productive. I also learnt a lot about living a happy life. It’s not hard… You just have to do some tweaking to the way you live. I learnt a lot about these tricks. Why not share them with every one?</p>
+
+<p>Read more at our <a href="/about">About</a> page&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>
